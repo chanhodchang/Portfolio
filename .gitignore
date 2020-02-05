@@ -1,3 +1,6 @@
+# Ignore Templates
+templates/
+
 # Compiled class file
 *.class
 
